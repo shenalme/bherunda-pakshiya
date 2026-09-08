@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <!-- Replace with your published URL -->
+    <loc>https://YOURNAME.github.io/bherunda-pakshiya/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://YOURNAME.github.io/bherunda-pakshiya/images/hero-pitangane-jasmine.jpg</image:loc>
+      <image:title>Pitangane and his wife with jasmine, Bherunda Pakshiya (2006)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://YOURNAME.github.io/bherunda-pakshiya/images/pitangane-portrait.jpg</image:loc>
+      <image:title>Sriyantha Mendis as Pitangane, Bherunda Pakshiya (2006)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://YOURNAME.github.io/bherunda-pakshiya/images/temple-courtyard.jpg</image:loc>
+      <image:title>Temple courtyard scene, Bherunda Pakshiya (2006)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://YOURNAME.github.io/bherunda-pakshiya/images/hill-country-ride.jpg</image:loc>
+      <image:title>The engineer riding in the hill country, Bherunda Pakshiya (2006)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://YOURNAME.github.io/bherunda-pakshiya/images/window-bars.jpg</image:loc>
+      <image:title>Waiting at the barred window, Bherunda Pakshiya (2006)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://YOURNAME.github.io/bherunda-pakshiya/images/threading-jasmine.jpg</image:loc>
+      <image:title>Threading jasmine by lamplight, Bherunda Pakshiya (2006)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://YOURNAME.github.io/bherunda-pakshiya/images/verandah.jpg</image:loc>
+      <image:title>News reaching the verandah, Bherunda Pakshiya (2006)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://YOURNAME.github.io/bherunda-pakshiya/images/on-set-sarath-dharmasiri.jpg</image:loc>
+      <image:title>Director Sarath Dharmasiri on location, Bherunda Pakshiya (2006)</image:title>
+    </image:image>
+  </url>
+</urlset>

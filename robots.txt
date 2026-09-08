@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace with your published URL
+Sitemap: https://YOURNAME.github.io/bherunda-pakshiya/sitemap.xml
